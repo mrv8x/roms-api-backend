@@ -1,0 +1,18 @@
+core:
+  devices_org: DerpFest-Devices
+  github_token: FILL
+  drive_id: FILL
+  firebase_cred_file: "/path/to/your/firebase_credentials.json"
+  firebase_project_id: "test-db-xxxx"
+  firebase_collection_user: "Users"
+  firebase_collection_admin: "Admin"
+  firebase_rldb: FILL
+  firebase_rldb_builds_db: "builds"
+  rom_name: "DerpFest"
+  author_name: "DerpFest-Bot"
+  rom_pic_url: "https://i.imgur.com/eAKLEBp.jpg"
+  telegram_token: FILL
+  channel_name: "@YOURCHANNELNAME"
+  buttons: ["Changelogs", "Download"]
+  support_group: "@YOURSUPPORTGROUP"
+  devices_url: "https://raw.githubusercontent.com/xxxx/master/devices.yaml" # use direct link

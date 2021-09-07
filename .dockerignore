@@ -1,0 +1,16 @@
+# pycache
+api/__pycache__
+api/*/__pycache__
+api/*/*/__pycache__
+
+# configs
+*.yaml
+*.json
+*.cfg
+*.toml
+
+# pictures
+*.jpg
+
+# other
+*.log

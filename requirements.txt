@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+pygithub
+python-magic
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+firebase-admin
+telegraph
+pyyaml
+loguru
+jinja2
+aiogram
+python-multipart
+apscheduler
+python-magic
+google-cloud-firestore
